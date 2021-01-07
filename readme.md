@@ -16,6 +16,7 @@ to install `ics` module before start.
     python cu_tt.py
     ```
     and follow the instruction in program.
+4. You can import this `.ics` file to your google calendar or iCal or other calendar app. I suggest you to create a new calendar for this file because it will be convenient to delete if there is any bug LOL.
 
 ## Other
 1. The calendar will be generated based on the information provided by CUSIS, and there may be some misinformation in CUSIS. For example, the timetables about college assemblies.
